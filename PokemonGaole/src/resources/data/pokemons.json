@@ -1,0 +1,3512 @@
+[
+    {
+        "name": "charmander",
+        "health": 39,
+        "damage": 52,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "charmeleon",
+        "health": 58,
+        "damage": 64,
+        "speed": 80,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "charizard",
+        "health": 78,
+        "damage": 84,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "squirtle",
+        "health": 44,
+        "damage": 48,
+        "speed": 43,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "wartortle",
+        "health": 59,
+        "damage": 63,
+        "speed": 58,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "blastoise",
+        "health": 79,
+        "damage": 83,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "pikachu",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "raichu",
+        "health": 60,
+        "damage": 90,
+        "speed": 110,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "vulpix",
+        "health": 38,
+        "damage": 41,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "ninetales",
+        "health": 73,
+        "damage": 76,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "psyduck",
+        "health": 50,
+        "damage": 52,
+        "speed": 55,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "golduck",
+        "health": 80,
+        "damage": 82,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "mankey",
+        "health": 40,
+        "damage": 80,
+        "speed": 70,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "primeape",
+        "health": 65,
+        "damage": 105,
+        "speed": 95,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "growlithe",
+        "health": 55,
+        "damage": 70,
+        "speed": 60,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "arcanine",
+        "health": 90,
+        "damage": 110,
+        "speed": 95,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "poliwag",
+        "health": 40,
+        "damage": 50,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 255
+    },
+    {
+        "name": "poliwhirl",
+        "health": 65,
+        "damage": 65,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 120
+    },
+    {
+        "name": "poliwrath",
+        "health": 90,
+        "damage": 95,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "machop",
+        "health": 70,
+        "damage": 80,
+        "speed": 35,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 180
+    },
+    {
+        "name": "machoke",
+        "health": 80,
+        "damage": 100,
+        "speed": 45,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 90
+    },
+    {
+        "name": "machamp",
+        "health": 90,
+        "damage": 130,
+        "speed": 55,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "tentacool",
+        "health": 40,
+        "damage": 40,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "tentacruel",
+        "health": 80,
+        "damage": 70,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "ponyta",
+        "health": 50,
+        "damage": 85,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "rapidash",
+        "health": 65,
+        "damage": 100,
+        "speed": 105,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "slowpoke",
+        "health": 90,
+        "damage": 65,
+        "speed": 15,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "slowbro",
+        "health": 95,
+        "damage": 75,
+        "speed": 30,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "magnemite",
+        "health": 25,
+        "damage": 35,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "magneton",
+        "health": 50,
+        "damage": 60,
+        "speed": 70,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "seel",
+        "health": 65,
+        "damage": 45,
+        "speed": 45,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "dewgong",
+        "health": 90,
+        "damage": 70,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "shellder",
+        "health": 30,
+        "damage": 65,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "cloyster",
+        "health": 50,
+        "damage": 95,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "krabby",
+        "health": 30,
+        "damage": 105,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 225
+    },
+    {
+        "name": "kingler",
+        "health": 55,
+        "damage": 130,
+        "speed": 75,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "voltorb",
+        "health": 40,
+        "damage": 30,
+        "speed": 100,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "electrode",
+        "health": 60,
+        "damage": 50,
+        "speed": 150,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "hitmonlee",
+        "health": 50,
+        "damage": 120,
+        "speed": 87,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "hitmonchan",
+        "health": 50,
+        "damage": 105,
+        "speed": 76,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "horsea",
+        "health": 30,
+        "damage": 40,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 225
+    },
+    {
+        "name": "seadra",
+        "health": 55,
+        "damage": 65,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "goldeen",
+        "health": 45,
+        "damage": 67,
+        "speed": 63,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 225
+    },
+    {
+        "name": "seaking",
+        "health": 80,
+        "damage": 92,
+        "speed": 68,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "staryu",
+        "health": 30,
+        "damage": 45,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 225
+    },
+    {
+        "name": "starmie",
+        "health": 60,
+        "damage": 75,
+        "speed": 115,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "electabuzz",
+        "health": 65,
+        "damage": 83,
+        "speed": 105,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "magmar",
+        "health": 65,
+        "damage": 95,
+        "speed": 93,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "magikarp",
+        "health": 20,
+        "damage": 10,
+        "speed": 80,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 255
+    },
+    {
+        "name": "gyarados",
+        "health": 95,
+        "damage": 125,
+        "speed": 81,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "lapras",
+        "health": 130,
+        "damage": 85,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "vaporeon",
+        "health": 130,
+        "damage": 65,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "jolteon",
+        "health": 65,
+        "damage": 65,
+        "speed": 130,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "flareon",
+        "health": 65,
+        "damage": 130,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "zapdos",
+        "health": 90,
+        "damage": 90,
+        "speed": 100,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "moltres",
+        "health": 90,
+        "damage": 100,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "cyndaquil",
+        "health": 39,
+        "damage": 52,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "quilava",
+        "health": 58,
+        "damage": 64,
+        "speed": 80,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "typhlosion",
+        "health": 78,
+        "damage": 84,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "totodile",
+        "health": 50,
+        "damage": 65,
+        "speed": 43,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "croconaw",
+        "health": 65,
+        "damage": 80,
+        "speed": 58,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "feraligatr",
+        "health": 85,
+        "damage": 105,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "chinchou",
+        "health": 75,
+        "damage": 38,
+        "speed": 67,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "lanturn",
+        "health": 125,
+        "damage": 58,
+        "speed": 67,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "pichu",
+        "health": 20,
+        "damage": 40,
+        "speed": 60,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "mareep",
+        "health": 55,
+        "damage": 40,
+        "speed": 35,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 235
+    },
+    {
+        "name": "flaaffy",
+        "health": 70,
+        "damage": 55,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 120
+    },
+    {
+        "name": "ampharos",
+        "health": 90,
+        "damage": 75,
+        "speed": 55,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "marill",
+        "health": 70,
+        "damage": 20,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "azumarill",
+        "health": 100,
+        "damage": 50,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "politoed",
+        "health": 90,
+        "damage": 75,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "wooper",
+        "health": 55,
+        "damage": 45,
+        "speed": 15,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 255
+    },
+    {
+        "name": "quagsire",
+        "health": 95,
+        "damage": 85,
+        "speed": 35,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 90
+    },
+    {
+        "name": "slowking",
+        "health": 95,
+        "damage": 75,
+        "speed": 30,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 70
+    },
+    {
+        "name": "qwilfish",
+        "health": 65,
+        "damage": 95,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "slugma",
+        "health": 40,
+        "damage": 40,
+        "speed": 20,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "magcargo",
+        "health": 60,
+        "damage": 50,
+        "speed": 30,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "corsola",
+        "health": 65,
+        "damage": 55,
+        "speed": 35,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "remoraid",
+        "health": 35,
+        "damage": 65,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "octillery",
+        "health": 75,
+        "damage": 105,
+        "speed": 45,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "mantine",
+        "health": 85,
+        "damage": 40,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 25
+    },
+    {
+        "name": "kingdra",
+        "health": 75,
+        "damage": 95,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "tyrogue",
+        "health": 35,
+        "damage": 35,
+        "speed": 35,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "hitmontop",
+        "health": 50,
+        "damage": 95,
+        "speed": 70,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "elekid",
+        "health": 45,
+        "damage": 63,
+        "speed": 95,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "magby",
+        "health": 45,
+        "damage": 75,
+        "speed": 83,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "raikou",
+        "health": 90,
+        "damage": 85,
+        "speed": 115,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "entei",
+        "health": 115,
+        "damage": 115,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "suicune",
+        "health": 100,
+        "damage": 75,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "ho-oh",
+        "health": 106,
+        "damage": 130,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "torchic",
+        "health": 45,
+        "damage": 60,
+        "speed": 45,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "combusken",
+        "health": 60,
+        "damage": 85,
+        "speed": 55,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "blaziken",
+        "health": 80,
+        "damage": 120,
+        "speed": 80,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "mudkip",
+        "health": 50,
+        "damage": 70,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "marshtomp",
+        "health": 70,
+        "damage": 85,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "swampert",
+        "health": 100,
+        "damage": 110,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "lotad",
+        "health": 40,
+        "damage": 30,
+        "speed": 30,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 255
+    },
+    {
+        "name": "lombre",
+        "health": 60,
+        "damage": 50,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 120
+    },
+    {
+        "name": "ludicolo",
+        "health": 80,
+        "damage": 70,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "wingull",
+        "health": 40,
+        "damage": 30,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pelipper",
+        "health": 60,
+        "damage": 50,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "makuhita",
+        "health": 72,
+        "damage": 60,
+        "speed": 25,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 180
+    },
+    {
+        "name": "hariyama",
+        "health": 144,
+        "damage": 120,
+        "speed": 50,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 200
+    },
+    {
+        "name": "meditite",
+        "health": 30,
+        "damage": 40,
+        "speed": 60,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 180
+    },
+    {
+        "name": "medicham",
+        "health": 60,
+        "damage": 60,
+        "speed": 80,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 90
+    },
+    {
+        "name": "electrike",
+        "health": 40,
+        "damage": 45,
+        "speed": 65,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 120
+    },
+    {
+        "name": "manectric",
+        "health": 70,
+        "damage": 75,
+        "speed": 105,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "plusle",
+        "health": 60,
+        "damage": 50,
+        "speed": 95,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 200
+    },
+    {
+        "name": "minun",
+        "health": 60,
+        "damage": 40,
+        "speed": 95,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 200
+    },
+    {
+        "name": "carvanha",
+        "health": 45,
+        "damage": 90,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 225
+    },
+    {
+        "name": "sharpedo",
+        "health": 70,
+        "damage": 120,
+        "speed": 95,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "wailmer",
+        "health": 130,
+        "damage": 70,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 125
+    },
+    {
+        "name": "wailord",
+        "health": 170,
+        "damage": 90,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "numel",
+        "health": 60,
+        "damage": 60,
+        "speed": 35,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 255
+    },
+    {
+        "name": "camerupt",
+        "health": 70,
+        "damage": 100,
+        "speed": 40,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 150
+    },
+    {
+        "name": "torkoal",
+        "health": 70,
+        "damage": 85,
+        "speed": 20,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 90
+    },
+    {
+        "name": "barboach",
+        "health": 50,
+        "damage": 48,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "whiscash",
+        "health": 110,
+        "damage": 78,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "corphish",
+        "health": 43,
+        "damage": 80,
+        "speed": 35,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 205
+    },
+    {
+        "name": "crawdaunt",
+        "health": 63,
+        "damage": 120,
+        "speed": 55,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 155
+    },
+    {
+        "name": "feebas",
+        "health": 20,
+        "damage": 15,
+        "speed": 80,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 255
+    },
+    {
+        "name": "milotic",
+        "health": 95,
+        "damage": 60,
+        "speed": 81,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "clamperl",
+        "health": 35,
+        "damage": 64,
+        "speed": 32,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 255
+    },
+    {
+        "name": "huntail",
+        "health": 55,
+        "damage": 104,
+        "speed": 52,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 60
+    },
+    {
+        "name": "gorebyss",
+        "health": 55,
+        "damage": 84,
+        "speed": 52,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 60
+    },
+    {
+        "name": "relicanth",
+        "health": 100,
+        "damage": 90,
+        "speed": 55,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 25
+    },
+    {
+        "name": "luvdisc",
+        "health": 43,
+        "damage": 30,
+        "speed": 97,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 225
+    },
+    {
+        "name": "kyogre",
+        "health": 100,
+        "damage": 100,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "chimchar",
+        "health": 44,
+        "damage": 58,
+        "speed": 61,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "monferno",
+        "health": 64,
+        "damage": 78,
+        "speed": 81,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "infernape",
+        "health": 76,
+        "damage": 104,
+        "speed": 108,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "piplup",
+        "health": 53,
+        "damage": 51,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "prinplup",
+        "health": 64,
+        "damage": 66,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "empoleon",
+        "health": 84,
+        "damage": 86,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "shinx",
+        "health": 45,
+        "damage": 65,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 235
+    },
+    {
+        "name": "luxio",
+        "health": 60,
+        "damage": 85,
+        "speed": 60,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 120
+    },
+    {
+        "name": "luxray",
+        "health": 80,
+        "damage": 120,
+        "speed": 70,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "pachirisu",
+        "health": 60,
+        "damage": 45,
+        "speed": 95,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 200
+    },
+    {
+        "name": "buizel",
+        "health": 55,
+        "damage": 65,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "floatzel",
+        "health": 85,
+        "damage": 105,
+        "speed": 115,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "shellos",
+        "health": 76,
+        "damage": 48,
+        "speed": 34,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "gastrodon",
+        "health": 111,
+        "damage": 83,
+        "speed": 39,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "riolu",
+        "health": 40,
+        "damage": 70,
+        "speed": 60,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "lucario",
+        "health": 70,
+        "damage": 110,
+        "speed": 90,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "finneon",
+        "health": 49,
+        "damage": 49,
+        "speed": 66,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "lumineon",
+        "health": 69,
+        "damage": 69,
+        "speed": 91,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "mantyke",
+        "health": 45,
+        "damage": 20,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 25
+    },
+    {
+        "name": "magnezone",
+        "health": 70,
+        "damage": 70,
+        "speed": 60,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 30
+    },
+    {
+        "name": "electivire",
+        "health": 75,
+        "damage": 123,
+        "speed": 95,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 30
+    },
+    {
+        "name": "magmortar",
+        "health": 75,
+        "damage": 95,
+        "speed": 83,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 30
+    },
+    {
+        "name": "rotom",
+        "health": 50,
+        "damage": 50,
+        "speed": 91,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "palkia",
+        "health": 90,
+        "damage": 120,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "heatran",
+        "health": 91,
+        "damage": 90,
+        "speed": 77,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "phione",
+        "health": 80,
+        "damage": 80,
+        "speed": 80,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 30
+    },
+    {
+        "name": "manaphy",
+        "health": 100,
+        "damage": 100,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "tepig",
+        "health": 65,
+        "damage": 63,
+        "speed": 45,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "pignite",
+        "health": 90,
+        "damage": 93,
+        "speed": 55,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "emboar",
+        "health": 110,
+        "damage": 123,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "oshawott",
+        "health": 55,
+        "damage": 55,
+        "speed": 45,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "dewott",
+        "health": 75,
+        "damage": 75,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "samurott",
+        "health": 95,
+        "damage": 100,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "pansear",
+        "health": 50,
+        "damage": 53,
+        "speed": 64,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "simisear",
+        "health": 75,
+        "damage": 98,
+        "speed": 101,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "panpour",
+        "health": 50,
+        "damage": 53,
+        "speed": 64,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "simipour",
+        "health": 75,
+        "damage": 98,
+        "speed": 101,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "blitzle",
+        "health": 45,
+        "damage": 60,
+        "speed": 76,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "zebstrika",
+        "health": 75,
+        "damage": 100,
+        "speed": 116,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "timburr",
+        "health": 75,
+        "damage": 80,
+        "speed": 35,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "gurdurr",
+        "health": 85,
+        "damage": 105,
+        "speed": 40,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 90
+    },
+    {
+        "name": "conkeldurr",
+        "health": 105,
+        "damage": 140,
+        "speed": 45,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "tympole",
+        "health": 50,
+        "damage": 50,
+        "speed": 64,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 255
+    },
+    {
+        "name": "palpitoad",
+        "health": 75,
+        "damage": 65,
+        "speed": 69,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 120
+    },
+    {
+        "name": "seismitoad",
+        "health": 105,
+        "damage": 95,
+        "speed": 74,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "throh",
+        "health": 120,
+        "damage": 100,
+        "speed": 45,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "sawk",
+        "health": 75,
+        "damage": 125,
+        "speed": 85,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "basculin-red-striped",
+        "health": 70,
+        "damage": 92,
+        "speed": 98,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 25
+    },
+    {
+        "name": "darumaka",
+        "health": 70,
+        "damage": 90,
+        "speed": 50,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 120
+    },
+    {
+        "name": "darmanitan-standard",
+        "health": 105,
+        "damage": 140,
+        "speed": 95,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 60
+    },
+    {
+        "name": "tirtouga",
+        "health": 54,
+        "damage": 78,
+        "speed": 22,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "carracosta",
+        "health": 74,
+        "damage": 108,
+        "speed": 32,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "ducklett",
+        "health": 62,
+        "damage": 44,
+        "speed": 55,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "swanna",
+        "health": 75,
+        "damage": 87,
+        "speed": 98,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "emolga",
+        "health": 55,
+        "damage": 75,
+        "speed": 103,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 200
+    },
+    {
+        "name": "frillish",
+        "health": 55,
+        "damage": 40,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "jellicent",
+        "health": 100,
+        "damage": 60,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "alomomola",
+        "health": 165,
+        "damage": 75,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "tynamo",
+        "health": 35,
+        "damage": 55,
+        "speed": 60,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "eelektrik",
+        "health": 65,
+        "damage": 85,
+        "speed": 40,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "eelektross",
+        "health": 85,
+        "damage": 115,
+        "speed": 50,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 30
+    },
+    {
+        "name": "mienfoo",
+        "health": 45,
+        "damage": 85,
+        "speed": 65,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 180
+    },
+    {
+        "name": "mienshao",
+        "health": 65,
+        "damage": 125,
+        "speed": 105,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "heatmor",
+        "health": 85,
+        "damage": 97,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 90
+    },
+    {
+        "name": "thundurus-incarnate",
+        "health": 79,
+        "damage": 115,
+        "speed": 111,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "keldeo-ordinary",
+        "health": 91,
+        "damage": 72,
+        "speed": 108,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "fennekin",
+        "health": 40,
+        "damage": 45,
+        "speed": 60,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "braixen",
+        "health": 59,
+        "damage": 59,
+        "speed": 73,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "delphox",
+        "health": 75,
+        "damage": 69,
+        "speed": 104,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "froakie",
+        "health": 41,
+        "damage": 56,
+        "speed": 71,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "frogadier",
+        "health": 54,
+        "damage": 63,
+        "speed": 97,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "greninja",
+        "health": 72,
+        "damage": 95,
+        "speed": 122,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "fletchinder",
+        "health": 62,
+        "damage": 73,
+        "speed": 84,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 120
+    },
+    {
+        "name": "talonflame",
+        "health": 78,
+        "damage": 81,
+        "speed": 126,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "litleo",
+        "health": 62,
+        "damage": 50,
+        "speed": 72,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 220
+    },
+    {
+        "name": "pyroar",
+        "health": 86,
+        "damage": 68,
+        "speed": 106,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 65
+    },
+    {
+        "name": "pancham",
+        "health": 67,
+        "damage": 82,
+        "speed": 43,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 220
+    },
+    {
+        "name": "pangoro",
+        "health": 95,
+        "damage": 124,
+        "speed": 58,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 65
+    },
+    {
+        "name": "clauncher",
+        "health": 50,
+        "damage": 53,
+        "speed": 44,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 225
+    },
+    {
+        "name": "clawitzer",
+        "health": 71,
+        "damage": 73,
+        "speed": 59,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 55
+    },
+    {
+        "name": "helioptile",
+        "health": 44,
+        "damage": 38,
+        "speed": 70,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "heliolisk",
+        "health": 62,
+        "damage": 55,
+        "speed": 109,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "hawlucha",
+        "health": 78,
+        "damage": 92,
+        "speed": 118,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 100
+    },
+    {
+        "name": "dedenne",
+        "health": 67,
+        "damage": 58,
+        "speed": 101,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "volcanion",
+        "health": 80,
+        "damage": 110,
+        "speed": 70,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "litten",
+        "health": 45,
+        "damage": 65,
+        "speed": 70,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "torracat",
+        "health": 65,
+        "damage": 85,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "incineroar",
+        "health": 95,
+        "damage": 115,
+        "speed": 60,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "popplio",
+        "health": 50,
+        "damage": 54,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "brionne",
+        "health": 60,
+        "damage": 69,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "primarina",
+        "health": 80,
+        "damage": 74,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "crabrawler",
+        "health": 47,
+        "damage": 82,
+        "speed": 63,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 225
+    },
+    {
+        "name": "crabominable",
+        "health": 97,
+        "damage": 132,
+        "speed": 43,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "oricorio-baile",
+        "health": 75,
+        "damage": 70,
+        "speed": 93,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "wishiwashi-solo",
+        "health": 45,
+        "damage": 20,
+        "speed": 40,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "dewpider",
+        "health": 38,
+        "damage": 40,
+        "speed": 27,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 200
+    },
+    {
+        "name": "araquanid",
+        "health": 68,
+        "damage": 70,
+        "speed": 42,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 100
+    },
+    {
+        "name": "passimian",
+        "health": 100,
+        "damage": 120,
+        "speed": 80,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "pyukumuku",
+        "health": 55,
+        "damage": 60,
+        "speed": 5,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 60
+    },
+    {
+        "name": "turtonator",
+        "health": 60,
+        "damage": 78,
+        "speed": 36,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 70
+    },
+    {
+        "name": "togedemaru",
+        "health": 65,
+        "damage": 98,
+        "speed": 96,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "bruxish",
+        "health": 68,
+        "damage": 105,
+        "speed": 92,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 80
+    },
+    {
+        "name": "tapu-koko",
+        "health": 70,
+        "damage": 115,
+        "speed": 130,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "tapu-fini",
+        "health": 70,
+        "damage": 75,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "xurkitree",
+        "health": 83,
+        "damage": 89,
+        "speed": 83,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "marshadow",
+        "health": 90,
+        "damage": 125,
+        "speed": 125,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "blacephalon",
+        "health": 53,
+        "damage": 127,
+        "speed": 107,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 30
+    },
+    {
+        "name": "zeraora",
+        "health": 88,
+        "damage": 112,
+        "speed": 143,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "scorbunny",
+        "health": 50,
+        "damage": 71,
+        "speed": 69,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "raboot",
+        "health": 65,
+        "damage": 86,
+        "speed": 94,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "cinderace",
+        "health": 80,
+        "damage": 116,
+        "speed": 119,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "sobble",
+        "health": 50,
+        "damage": 40,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "drizzile",
+        "health": 65,
+        "damage": 60,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "inteleon",
+        "health": 70,
+        "damage": 85,
+        "speed": 120,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "chewtle",
+        "health": 50,
+        "damage": 64,
+        "speed": 44,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 255
+    },
+    {
+        "name": "drednaw",
+        "health": 90,
+        "damage": 115,
+        "speed": 74,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "yamper",
+        "health": 59,
+        "damage": 45,
+        "speed": 26,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 255
+    },
+    {
+        "name": "boltund",
+        "health": 69,
+        "damage": 90,
+        "speed": 121,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "arrokuda",
+        "health": 41,
+        "damage": 63,
+        "speed": 66,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 255
+    },
+    {
+        "name": "barraskewda",
+        "health": 61,
+        "damage": 123,
+        "speed": 136,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "toxel",
+        "health": 40,
+        "damage": 38,
+        "speed": 40,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "toxtricity-amped",
+        "health": 75,
+        "damage": 98,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "sizzlipede",
+        "health": 50,
+        "damage": 65,
+        "speed": 45,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "centiskorch",
+        "health": 100,
+        "damage": 115,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "clobbopus",
+        "health": 50,
+        "damage": 68,
+        "speed": 32,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "grapploct",
+        "health": 80,
+        "damage": 118,
+        "speed": 42,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "sirfetchd",
+        "health": 62,
+        "damage": 135,
+        "speed": 65,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "falinks",
+        "health": 65,
+        "damage": 100,
+        "speed": 75,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "pincurchin",
+        "health": 48,
+        "damage": 101,
+        "speed": 15,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "morpeko-full-belly",
+        "health": 58,
+        "damage": 95,
+        "speed": 97,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 180
+    },
+    {
+        "name": "dracozolt",
+        "health": 90,
+        "damage": 100,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "arctozolt",
+        "health": 90,
+        "damage": 100,
+        "speed": 55,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "dracovish",
+        "health": 90,
+        "damage": 90,
+        "speed": 75,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "arctovish",
+        "health": 90,
+        "damage": 90,
+        "speed": 55,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "zamazenta",
+        "health": 92,
+        "damage": 120,
+        "speed": 138,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 10
+    },
+    {
+        "name": "kubfu",
+        "health": 60,
+        "damage": 90,
+        "speed": 72,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "urshifu-single-strike",
+        "health": 100,
+        "damage": 130,
+        "speed": 97,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "regieleki",
+        "health": 80,
+        "damage": 100,
+        "speed": 200,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "basculegion-male",
+        "health": 120,
+        "damage": 112,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 135
+    },
+    {
+        "name": "sneasler",
+        "health": 80,
+        "damage": 130,
+        "speed": 120,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 135
+    },
+    {
+        "name": "fuecoco",
+        "health": 67,
+        "damage": 45,
+        "speed": 36,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "crocalor",
+        "health": 81,
+        "damage": 55,
+        "speed": 49,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "skeledirge",
+        "health": 104,
+        "damage": 75,
+        "speed": 66,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "quaxly",
+        "health": 55,
+        "damage": 65,
+        "speed": 50,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "quaxwell",
+        "health": 70,
+        "damage": 85,
+        "speed": 65,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "quaquaval",
+        "health": 85,
+        "damage": 120,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "pawmi",
+        "health": 45,
+        "damage": 50,
+        "speed": 60,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pawmo",
+        "health": 60,
+        "damage": 75,
+        "speed": 85,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 80
+    },
+    {
+        "name": "pawmot",
+        "health": 70,
+        "damage": 115,
+        "speed": 105,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "charcadet",
+        "health": 40,
+        "damage": 50,
+        "speed": 35,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 90
+    },
+    {
+        "name": "armarouge",
+        "health": 85,
+        "damage": 60,
+        "speed": 75,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 25
+    },
+    {
+        "name": "ceruledge",
+        "health": 75,
+        "damage": 125,
+        "speed": 85,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 25
+    },
+    {
+        "name": "tadbulb",
+        "health": 61,
+        "damage": 31,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "bellibolt",
+        "health": 109,
+        "damage": 64,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 50
+    },
+    {
+        "name": "wattrel",
+        "health": 40,
+        "damage": 40,
+        "speed": 70,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "kilowattrel",
+        "health": 70,
+        "damage": 70,
+        "speed": 125,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 90
+    },
+    {
+        "name": "wiglett",
+        "health": 10,
+        "damage": 55,
+        "speed": 95,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 255
+    },
+    {
+        "name": "wugtrio",
+        "health": 35,
+        "damage": 100,
+        "speed": 120,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 50
+    },
+    {
+        "name": "finizen",
+        "health": 70,
+        "damage": 45,
+        "speed": 75,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 200
+    },
+    {
+        "name": "palafin-zero",
+        "health": 100,
+        "damage": 70,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "veluza",
+        "health": 90,
+        "damage": 102,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 100
+    },
+    {
+        "name": "dondozo",
+        "health": 150,
+        "damage": 100,
+        "speed": 35,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 25
+    },
+    {
+        "name": "annihilape",
+        "health": 110,
+        "damage": 115,
+        "speed": 90,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "sandy-shocks",
+        "health": 85,
+        "damage": 81,
+        "speed": 101,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 30
+    },
+    {
+        "name": "iron-hands",
+        "health": 154,
+        "damage": 140,
+        "speed": 50,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 50
+    },
+    {
+        "name": "iron-moth",
+        "health": 80,
+        "damage": 70,
+        "speed": 110,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 30
+    },
+    {
+        "name": "koraidon",
+        "health": 100,
+        "damage": 135,
+        "speed": 135,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "miraidon",
+        "health": 100,
+        "damage": 85,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "walking-wake",
+        "health": 99,
+        "damage": 83,
+        "speed": 109,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 5
+    },
+    {
+        "name": "gouging-fire",
+        "health": 105,
+        "damage": 115,
+        "speed": 91,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 10
+    },
+    {
+        "name": "raging-bolt",
+        "health": 125,
+        "damage": 73,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 10
+    },
+    {
+        "name": "rotom-heat",
+        "health": 50,
+        "damage": 65,
+        "speed": 86,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "rotom-wash",
+        "health": 50,
+        "damage": 65,
+        "speed": 86,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "rotom-frost",
+        "health": 50,
+        "damage": 65,
+        "speed": 86,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "rotom-fan",
+        "health": 50,
+        "damage": 65,
+        "speed": 86,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "rotom-mow",
+        "health": 50,
+        "damage": 65,
+        "speed": 86,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "castform-sunny",
+        "health": 70,
+        "damage": 70,
+        "speed": 70,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "castform-rainy",
+        "health": 70,
+        "damage": 70,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "basculin-blue-striped",
+        "health": 70,
+        "damage": 92,
+        "speed": 98,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 25
+    },
+    {
+        "name": "darmanitan-zen",
+        "health": 105,
+        "damage": 30,
+        "speed": 55,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 60
+    },
+    {
+        "name": "thundurus-therian",
+        "health": 79,
+        "damage": 105,
+        "speed": 101,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "keldeo-resolute",
+        "health": 91,
+        "damage": 72,
+        "speed": 108,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "charizard-mega-x",
+        "health": 78,
+        "damage": 130,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "charizard-mega-y",
+        "health": 78,
+        "damage": 104,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "blastoise-mega",
+        "health": 79,
+        "damage": 103,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "gyarados-mega",
+        "health": 95,
+        "damage": 155,
+        "speed": 81,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "ampharos-mega",
+        "health": 90,
+        "damage": 95,
+        "speed": 45,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "blaziken-mega",
+        "health": 80,
+        "damage": 160,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "medicham-mega",
+        "health": 60,
+        "damage": 100,
+        "speed": 100,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 90
+    },
+    {
+        "name": "manectric-mega",
+        "health": 70,
+        "damage": 75,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "lucario-mega",
+        "health": 70,
+        "damage": 145,
+        "speed": 112,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "swampert-mega",
+        "health": 100,
+        "damage": 150,
+        "speed": 70,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "sharpedo-mega",
+        "health": 70,
+        "damage": 140,
+        "speed": 105,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 60
+    },
+    {
+        "name": "slowbro-mega",
+        "health": 95,
+        "damage": 75,
+        "speed": 30,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "kyogre-primal",
+        "health": 100,
+        "damage": 150,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "pikachu-rock-star",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-belle",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-pop-star",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-phd",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-libre",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-cosplay",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "camerupt-mega",
+        "health": 70,
+        "damage": 120,
+        "speed": 20,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 150
+    },
+    {
+        "name": "pikachu-original-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-hoenn-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-sinnoh-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-unova-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-kalos-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-alola-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "raichu-alola",
+        "health": 60,
+        "damage": 85,
+        "speed": 110,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 75
+    },
+    {
+        "name": "marowak-alola",
+        "health": 60,
+        "damage": 80,
+        "speed": 45,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "greninja-battle-bond",
+        "health": 72,
+        "damage": 95,
+        "speed": 122,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "greninja-ash",
+        "health": 72,
+        "damage": 145,
+        "speed": 132,
+        "defenseType": "water",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "oricorio-pom-pom",
+        "health": 75,
+        "damage": 70,
+        "speed": 93,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "wishiwashi-school",
+        "health": 45,
+        "damage": 140,
+        "speed": 30,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 60
+    },
+    {
+        "name": "pikachu-partner-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "marowak-totem",
+        "health": 60,
+        "damage": 80,
+        "speed": 45,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "araquanid-totem",
+        "health": 68,
+        "damage": 70,
+        "speed": 42,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 100
+    },
+    {
+        "name": "togedemaru-totem",
+        "health": 65,
+        "damage": 98,
+        "speed": 96,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 180
+    },
+    {
+        "name": "pikachu-starter",
+        "health": 45,
+        "damage": 80,
+        "speed": 120,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 190
+    },
+    {
+        "name": "pikachu-world-cap",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "farfetchd-galar",
+        "health": 52,
+        "damage": 95,
+        "speed": 55,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "zapdos-galar",
+        "health": 90,
+        "damage": 125,
+        "speed": 100,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "toxtricity-low-key",
+        "health": 75,
+        "damage": 98,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "morpeko-hangry",
+        "health": 58,
+        "damage": 95,
+        "speed": 97,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 180
+    },
+    {
+        "name": "zamazenta-crowned",
+        "health": 92,
+        "damage": 120,
+        "speed": 128,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 10
+    },
+    {
+        "name": "urshifu-rapid-strike",
+        "health": 100,
+        "damage": 130,
+        "speed": 97,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "charizard-gmax",
+        "health": 78,
+        "damage": 84,
+        "speed": 100,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "blastoise-gmax",
+        "health": 79,
+        "damage": 83,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "pikachu-gmax",
+        "health": 35,
+        "damage": 55,
+        "speed": 90,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 190
+    },
+    {
+        "name": "machamp-gmax",
+        "health": 90,
+        "damage": 130,
+        "speed": 55,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "kingler-gmax",
+        "health": 55,
+        "damage": 130,
+        "speed": 75,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "lapras-gmax",
+        "health": 130,
+        "damage": 85,
+        "speed": 60,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "cinderace-gmax",
+        "health": 80,
+        "damage": 116,
+        "speed": 119,
+        "defenseType": "fire",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "inteleon-gmax",
+        "health": 70,
+        "damage": 85,
+        "speed": 120,
+        "defenseType": "water",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "drednaw-gmax",
+        "health": 90,
+        "damage": 115,
+        "speed": 74,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 75
+    },
+    {
+        "name": "toxtricity-amped-gmax",
+        "health": 75,
+        "damage": 98,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "centiskorch-gmax",
+        "health": 100,
+        "damage": 115,
+        "speed": 65,
+        "defenseType": "fire",
+        "moveType": "fighting",
+        "captureRate": 75
+    },
+    {
+        "name": "urshifu-single-strike-gmax",
+        "health": 100,
+        "damage": 130,
+        "speed": 97,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "urshifu-rapid-strike-gmax",
+        "health": 100,
+        "damage": 130,
+        "speed": 97,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "toxtricity-low-key-gmax",
+        "health": 75,
+        "damage": 98,
+        "speed": 75,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "growlithe-hisui",
+        "health": 60,
+        "damage": 75,
+        "speed": 55,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "arcanine-hisui",
+        "health": 95,
+        "damage": 115,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "captureRate": 75
+    },
+    {
+        "name": "voltorb-hisui",
+        "health": 40,
+        "damage": 30,
+        "speed": 100,
+        "defenseType": "electric",
+        "moveType": "water",
+        "captureRate": 190
+    },
+    {
+        "name": "electrode-hisui",
+        "health": 60,
+        "damage": 50,
+        "speed": 150,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "typhlosion-hisui",
+        "health": 73,
+        "damage": 84,
+        "speed": 95,
+        "defenseType": "fire",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "sneasel-hisui",
+        "health": 55,
+        "damage": 95,
+        "speed": 115,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 60
+    },
+    {
+        "name": "samurott-hisui",
+        "health": 90,
+        "damage": 108,
+        "speed": 85,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "palkia-origin",
+        "health": 90,
+        "damage": 100,
+        "speed": 120,
+        "defenseType": "water",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "basculin-white-striped",
+        "health": 70,
+        "damage": 92,
+        "speed": 98,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 25
+    },
+    {
+        "name": "basculegion-female",
+        "health": 120,
+        "damage": 92,
+        "speed": 78,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 135
+    },
+    {
+        "name": "tauros-paldea-combat-breed",
+        "health": 75,
+        "damage": 110,
+        "speed": 100,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 45
+    },
+    {
+        "name": "tauros-paldea-blaze-breed",
+        "health": 75,
+        "damage": 110,
+        "speed": 100,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 45
+    },
+    {
+        "name": "tauros-paldea-aqua-breed",
+        "health": 75,
+        "damage": 110,
+        "speed": 100,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 45
+    },
+    {
+        "name": "palafin-hero",
+        "health": 100,
+        "damage": 160,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "fire",
+        "captureRate": 45
+    },
+    {
+        "name": "koraidon-limited-build",
+        "health": 100,
+        "damage": 135,
+        "speed": 135,
+        "defenseType": "fighting",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "koraidon-sprinting-build",
+        "health": 100,
+        "damage": 135,
+        "speed": 135,
+        "defenseType": "fighting",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "koraidon-swimming-build",
+        "health": 100,
+        "damage": 135,
+        "speed": 135,
+        "defenseType": "fighting",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "koraidon-gliding-build",
+        "health": 100,
+        "damage": 135,
+        "speed": 135,
+        "defenseType": "fighting",
+        "moveType": "water",
+        "captureRate": 3
+    },
+    {
+        "name": "miraidon-low-power-mode",
+        "health": 100,
+        "damage": 85,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "fire",
+        "captureRate": 3
+    },
+    {
+        "name": "miraidon-drive-mode",
+        "health": 100,
+        "damage": 85,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "electric",
+        "captureRate": 3
+    },
+    {
+        "name": "miraidon-aquatic-mode",
+        "health": 100,
+        "damage": 85,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 3
+    },
+    {
+        "name": "miraidon-glide-mode",
+        "health": 100,
+        "damage": 85,
+        "speed": 135,
+        "defenseType": "electric",
+        "moveType": "fighting",
+        "captureRate": 3
+    }
+]

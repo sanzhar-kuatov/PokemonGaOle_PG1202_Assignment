@@ -1,0 +1,42 @@
+{
+  "sanzhar": {
+    "username": "Sanzhar",
+    "inventory": [
+      {
+        "name": "Blaziken-mega",
+        "maxHp": 80,
+        "currentHp": 80,
+        "attack": 160,
+        "speed": 100,
+        "defenseType": "water",
+        "moveType": "water",
+        "level": 1,
+        "captureRate": 45
+      },
+      {
+        "name": "Pikachu-cosplay",
+        "maxHp": 35,
+        "currentHp": 35,
+        "attack": 55,
+        "speed": 90,
+        "defenseType": "water",
+        "moveType": "water",
+        "level": 1,
+        "captureRate": 190
+      },
+      {
+        "name": "Annihilape",
+        "maxHp": 110,
+        "currentHp": 110,
+        "attack": 115,
+        "speed": 90,
+        "defenseType": "fire",
+        "moveType": "fire",
+        "level": 1,
+        "captureRate": 45
+      }
+    ],
+    "highestScore": 3618,
+    "coins": 20
+  }
+}
