@@ -16,7 +16,7 @@ This project helped us practice:
 
 - Class and object design
 - Encapsulation
-- Inheritance / polymorphism, if used
+- Inheritance / polymorphism
 - File handling
 - JSON-based data storage
 - Turn-based game logic
